@@ -1,6 +1,6 @@
 # Laporan Alur Logika Pengisian Form Pendaftaran
 
-Ini adalah laporan sederhana yang menjelaskan alur logika pengisian formulir pendaftaran berdasarkan kode HTML, CSS, dan JavaScript yang diberikan.
+Dalam laporan ini, akan dijelaskan alur logika pengisian formulir pendaftaran yang diimplementasikan melalui kode HTML, CSS, dan JavaScript yang diberikan.
 
 ## Deskripsi
 
