@@ -11,8 +11,8 @@
 Halaman web ini adalah galeri foto responsif yang dibangun menggunakan HTML dan Bootstrap. Halaman ini menampilkan kumpulan gambar dalam tata letak grid, dan setiap gambar dapat diklik untuk membuka modal dengan versi gambar yang lebih besar.
 
 ## Screenshot
-![Contoh Screenshot](image.jpg)
-![Contoh Screenshot](image2.jpg)
+![Contoh Screenshot](image.png)
+![Contoh Screenshot](image2.png)
 
 ## Fitur
 - Tata letak grid responsif untuk berbagai ukuran layar.
