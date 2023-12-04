@@ -24,5 +24,5 @@ Halaman web ini adalah galeri foto responsif yang dibangun menggunakan HTML dan 
 - Bootstrap 5.2.3
 
 ## Cara Penggunaan
-1. Klona repositori: `git clone https://github.com/username-anda/nama-repo.git`
+1. Klona repositori: `git clone https://github.com/AfandiIkhsyan/Prak.Desain-Web/tree/main/pert11`
 2. Buka file `index.html` di peramban web Anda.
